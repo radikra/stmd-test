@@ -127,11 +127,7 @@ body {
 
 .racers {
     background-color: rgba(255,255,255, .5);
-    box-shadow: 0 0 1.5rem .25rem black;
-}
-
-.head-info {
-    // color: tomato !important;
+    box-shadow: 0 0 1.5rem .25rem rgba(0,0,0,.75);
 }
 
 .sortable {
