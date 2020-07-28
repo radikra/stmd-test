@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Connecting to db.js (need json-server installed globaly)
+```
+npm run connect
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
