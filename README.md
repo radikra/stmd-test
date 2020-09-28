@@ -15,6 +15,8 @@ npm run serve
 npm run connect
 ```
 
+### Deployed version is on "deploy" branch
+
 ### Compiles and minifies for production
 ```
 npm run build
